@@ -1,0 +1,12 @@
+[package]
+name = "calc"
+version = "0.1.0"
+edition = "2021"
+description = "Simple lib for learn proposal"
+authors = ["Felipe Mattos"]
+repository = ""
+readme = "README.md"
+license = "MIT"
+keywords = ["learn", "calc", "sum", "sub"]
+
+[dependencies]
